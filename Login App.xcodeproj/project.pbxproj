@@ -14,7 +14,7 @@
 		C0795BE52CD26BF3004FAA39 /* Exceptions for "Login App" folder in "Login App" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				App/Info.plist,
 			);
 			target = C0795BD22CD26BF2004FAA39 /* Login App */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ACH2JAHMMB;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Login App/Info.plist";
+				INFOPLIST_FILE = "Login App/App/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -179,7 +179,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ACH2JAHMMB;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Login App/Info.plist";
+				INFOPLIST_FILE = "Login App/App/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
